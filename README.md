@@ -1,4 +1,4 @@
-### I'm ych-bup! 👋
+### I'm Chansook02! 👋
 I'm developer of CH-07.
 
 ### My Github stats
