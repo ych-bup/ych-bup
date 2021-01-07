@@ -3,13 +3,13 @@
   <h1>YCH-BUP</h1>
   <p align="center">
     <a href="https://www.instagram.com/ych.bup">
-      <img src="https://img.shields.io/badge/instagram-ych.bup-red?logo=instagram" alt="instagram">
+      <img src="https://img.shields.io/badge/instagram-ych.bup-red?logo=instagram&style=flat-square" alt="instagram">
     </a>
     <a href="https://discord.gg/3EHWced">
-      <img src="https://img.shields.io/badge/server-Test Server-7289d9?logo=discord" alt="discord server">
+      <img src="https://img.shields.io/badge/server-Test Server-7289d9?logo=discord&style=flat-square" alt="discord server">
     </a>
     <a href="https://github.com/ych-bup">
-      <img src="https://img.shields.io/badge/github-ych--bup-black?logo=github" alt="github">
+      <img src="https://img.shields.io/badge/github-ych--bup-black?logo=github&style=flat-square" alt="github">
     </a>
   </p>
 </div>
