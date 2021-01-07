@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://images-ext-2.discordapp.net/external/ZeNU7OTsjrcFlY_Cbe1plfLI4QmZW1CErPlZJgiiAas/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/602011789408075777/b78b9e350f53ec13ab899a1e8a6bdfe7.png?width=502&height=502" width="25%" height="25%">
+  <img src="https://images-ext-2.discordapp.net/external/ZeNU7OTsjrcFlY_Cbe1plfLI4QmZW1CErPlZJgiiAas/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/602011789408075777/b78b9e350f53ec13ab899a1e8a6bdfe7.png?width=502&height=502" width="15%" height="15%">
   <h1>YCH-BUP
 </div>
 
