@@ -1,5 +1,5 @@
 <div align=center>
-  <img align="center" border-radius="70%" object-fit="cover" src="https://avatars3.githubusercontent.com/u/67253200?s=460&u=e4b9b936e41c78e772a154c8fd40ebf1166d4fc6&v=4">
+  <h1>YCH-BUP</h1>
 </div>
 
 ## My Github stats
