@@ -8,7 +8,7 @@
 
 ## Repository
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=Ich.BOT)](https://github.com/ych-bup/Ich.BOT)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=Ich.BOT&bg_color=black)](https://github.com/ych-bup/Ich.BOT)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=moon-phase)](https://github.com/ych-bup/moon-phase)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=Ich-DOCS)](https://github.com/ych-bup/Ich-DOCS)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=ych-bup)](https://github.com/ych-bup/ych-bup)
