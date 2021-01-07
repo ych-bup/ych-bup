@@ -14,7 +14,7 @@
 
 ## Most Uses Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ych-bup&langs_count=8)](https://github.com/ych-bup/Ich.BOT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ych-bup&langs_count=8&bg_color=000&text_color=fff)](https://github.com/ych-bup/Ich.BOT)
 
 ## Introduce
 
