@@ -1,6 +1,17 @@
 <div align=center>
   <img src="https://images-ext-2.discordapp.net/external/ZeNU7OTsjrcFlY_Cbe1plfLI4QmZW1CErPlZJgiiAas/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/602011789408075777/b78b9e350f53ec13ab899a1e8a6bdfe7.png?width=502&height=502" width="15%" height="15%">
   <h1>YCH-BUP</h1>
+  <p align="center">
+    <a href="https://www.instagram.com/ych.bup">
+      <img src="https://img.shields.io/badge/instagram-ych.bup-red?logo=instagram" alt="instagram">
+    </a>
+    <a href="https://discord.gg/3EHWced">
+      <img src="https://img.shields.io/badge/server-Test Server-7289d9?logo=discord" alt="discord server">
+    </a>
+    <a href="https://github.com/ych-bup">
+      <img src="https://img.shields.io/badge/github-ych--bup-black?logo=github" alt="github">
+    </a>
+  </p>
 </div>
 
 ## My Github stats
