@@ -27,11 +27,3 @@
 ## Most Uses Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ych-bup&langs_count=8&bg_color=000&text_color=fff)](https://github.com/ych-bup/Ich.BOT)
-
-## Introduce
-
-<div align=right>
-  <h2>I'm Student 📗📘📙</h2>
-  <h4 padding-right="10%">hello</h4>
-  
-</div>
