@@ -24,6 +24,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=moon-phase&bg_color=000&text_color=fff)](https://github.com/ych-bup/moon-phase)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ych-bup&repo=Ich-DOCS&bg_color=000&text_color=fff)](https://github.com/ych-bup/Ich-DOCS)
 
-## Most Uses Languages
+## Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ych-bup&langs_count=8&bg_color=000&text_color=fff)](https://github.com/ych-bup/Ich.BOT)
