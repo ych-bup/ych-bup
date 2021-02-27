@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://images-ext-2.discordapp.net/external/ZeNU7OTsjrcFlY_Cbe1plfLI4QmZW1CErPlZJgiiAas/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/602011789408075777/b78b9e350f53ec13ab899a1e8a6bdfe7.png?width=502&height=502" width="15%" height="15%">
+  <img src="https://avatars.githubusercontent.com/u/67253200?s=460&u=e4b9b936e41c78e772a154c8fd40ebf1166d4fc6&v=4" width="15%" height="15%">
   <h1>YCH-BUP</h1>
   <p align="center">
     <a href="https://www.instagram.com/ych.bup">
