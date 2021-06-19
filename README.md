@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://avatars.githubusercontent.com/u/67253200?s=460&u=e4b9b936e41c78e772a154c8fd40ebf1166d4fc6&v=4" style="border-radius=10% 10% 10% 10%" width="15%" height="15%">
+  <img src="https://avatars.githubusercontent.com/u/67253200?s=460&u=e4b9b936e41c78e772a154c8fd40ebf1166d4fc6&v=4" width="15%" height="15%">
   <h1>YCH-BUP</h1>
   <p align="center">
     <a href="https://www.instagram.com/chanhoyoon_280">
